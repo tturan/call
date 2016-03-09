@@ -31,14 +31,6 @@ body {
   margin-top: 25px;
 }
 
-.box a.read-more {
-  text-decoration: underline;
-  display:block;
-  margin-top: 5px;
-  padding-top: 10px;
-  border-top: 1px solid #ccc;
-}
-
 .grid_2{
   background: inherit;
   height: 3000px;
