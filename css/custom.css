@@ -1,0 +1,84 @@
+/*custom css here*/
+
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: Courier, Arial, serif;
+  font-size: 14px;
+  color: #000;
+  background-color: #f9f;
+  background-image: url(../img/bg_h2000px.jpg);
+  height: 2000px;
+}
+
+.heading {
+  background-color: #000;
+  width:100%;
+  padding: 0px 20px;
+  background-image: inherit;
+}
+
+.footer {
+  color: #000;
+  font-style: italic;
+  margin-top: 50px;
+}
+
+.box {
+  background-color: #f9f;
+  padding: 20px;
+  margin-top: 25px;
+}
+
+.box a.read-more {
+  text-decoration: underline;
+  display:block;
+  margin-top: 5px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+}
+
+.grid_2{
+  background: inherit;
+  height: 3000px;
+}
+
+.grid_8{
+  align-items: center;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+h1{
+    color: #000;
+    font-style: italic;
+}
+
+h1 small {
+  color: #ccc;
+  font-size: .6em;
+}
+
+h1 big {
+  color: #000;
+  font-size: 78px;
+}
+
+p{
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+
+p big {
+  font-size: 22px;
+  margin-bottom: inherit;
+}
